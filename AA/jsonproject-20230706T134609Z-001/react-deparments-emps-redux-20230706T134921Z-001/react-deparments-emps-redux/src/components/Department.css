@@ -1,0 +1,18 @@
+#newDeptImg{   margin-top: 1%;
+    width: 400px;
+    }
+    .newDeptFormGroup{
+        margin-top: 1%;
+        width: 50%;
+        float:left;
+    /*float: left;
+    padding-left: 30%;
+    padding-right: 30%;*/
+    }
+    #allDepts{
+        margin-left: 20%;
+        margin-right: 10%;
+    }
+    .tableHeading{
+        background-color:#d781e6;
+    }

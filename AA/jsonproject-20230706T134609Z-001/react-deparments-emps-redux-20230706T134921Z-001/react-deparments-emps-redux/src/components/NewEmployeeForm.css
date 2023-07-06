@@ -1,0 +1,13 @@
+#newEmpImg{  margin-top: 1%;
+width: 400px;
+}
+.newEmpFormGroup{
+    margin-top: 1%;
+
+    width: 40%;
+    float:left;
+/*float: left;
+padding-left: 30%;
+padding-right: 30%;*/
+}
+select:invalid { color: rgb(128, 128, 128); }
